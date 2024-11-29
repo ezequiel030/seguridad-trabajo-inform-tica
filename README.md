@@ -1,6 +1,6 @@
 # Indice
 
-![Riesgos laborales en la informática](img/retosAmbientales.jpg)
+![Riesgos laborales en la informática](img/riesgosLaborales.jpg)
 
 
 1. [Introducción]()
