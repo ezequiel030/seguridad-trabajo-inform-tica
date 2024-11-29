@@ -1,4 +1,4 @@
-![Introducción](img/introduccion.jpg)
+![Introducción](img/Introduccion.jpg)
 
 En este proyecto vamos a explicar los riesgos laborales, abordandolos desde el punto de vista informática. 
 
