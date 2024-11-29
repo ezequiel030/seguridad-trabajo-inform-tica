@@ -1,6 +1,6 @@
 ![Prevención de riesgos](img/prevencionRiesgos.jpg)
 
-prevención de riesgos desde un punto de vista informático.
+# Prevención de riesgos desde un punto de vista informático.
 
 ---
 
