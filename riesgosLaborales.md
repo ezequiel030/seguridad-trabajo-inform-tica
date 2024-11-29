@@ -1,4 +1,4 @@
-![Riesgos Laborales](img/)
+![Riesgos Laborales](img/laboral.jpg)
 
 Aquí detallarás los riesgos más comunes que enfrentan los profesionales informáticos. Algunos ejemplos incluyen:
 
