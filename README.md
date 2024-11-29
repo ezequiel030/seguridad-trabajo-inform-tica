@@ -1,5 +1,8 @@
 # Indice
 
+![Riesgos laborales en la informática](img/retosAmbientales.jpg)
+
+
 1. [Introducción]()
 2. [Riesgos laborales]()
 3. [prevención de riesgos desde un punto de vista informático]()
