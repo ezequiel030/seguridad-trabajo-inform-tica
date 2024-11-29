@@ -1,5 +1,9 @@
 ![Riesgos Laborales](img/laboral.jpg)
 
+# Riesgos Laborales 
+
+---
+
 Aquí detallarás los riesgos más comunes que enfrentan los profesionales informáticos. Algunos ejemplos incluyen:
 
 - Riesgos ergonómicos: Posturas incorrectas, uso prolongado de ordenadores, mobiliario inadecuado.
