@@ -4,7 +4,7 @@
 
 
 1. [Introducción]()
-2. [Riesgos laborales]()
+2. [Riesgos laborales](riesgosLaborales.md)
 3. [prevención de riesgos desde un punto de vista informático]()
 4. [Conclusión]()
 5. [Referencias]()
