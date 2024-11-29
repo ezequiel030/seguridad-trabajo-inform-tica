@@ -1,7 +1,5 @@
 ![Introducción](img/Introduccion.jpg)
 
-<img src="file:///home/1asir/Descargas/Introduccion.jpg" alt="Introducción" width="1600" height="400"
-
 En este proyecto vamos a explicar los riesgos laborales, abordandolos desde el punto de vista informática. 
 
 Sabemos que en cualquier entorno laboral, la seguridad y la salud de los trabajadores son aspectos de gran importancia. En la informática, aunque no se enfrenta a los riesgos físicos de la industria pesada, 
