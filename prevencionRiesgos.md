@@ -1,5 +1,9 @@
 ![Prevención de riesgos](img/prevencionRiesgos.jpg)
 
+prevención de riesgos desde un punto de vista informático.
+
+---
+
 En este apartado debes proponer medidas de prevención específicas para los riesgos que mencionaste anteriormente.
 
 - Ergonomía: Uso de sillas ergonómicas, pantallas a la altura de los ojos, pausas activas, ejercicios de estiramiento.
