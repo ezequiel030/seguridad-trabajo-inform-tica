@@ -1,4 +1,4 @@
-![Prevención de riesgos](img/)
+![Prevención de riesgos](img/prevencionRiesgos.jpg)
 
 En este apartado debes proponer medidas de prevención específicas para los riesgos que mencionaste anteriormente.
 
