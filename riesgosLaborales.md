@@ -2,7 +2,6 @@
 
 # Riesgos Laborales 
 
----
 
 <p align="justify">
 Principalmente los riesgos más comunes que enfrentan los profesionales informáticos son: ergonómicos, psicológicos, eléctricos,ambientales y por último 
