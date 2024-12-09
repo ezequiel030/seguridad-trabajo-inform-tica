@@ -2,7 +2,6 @@
 
 # Prevención de riesgos desde un punto de vista informático.
 
----
 
 En este apartado debes proponer medidas de prevención específicas para los riesgos que mencionaste anteriormente.
 
