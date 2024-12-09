@@ -12,6 +12,9 @@ En este apartado debes proponer medidas de prevención específicas para los rie
 - Iluminación y ambiente laboral: Instalación de iluminación adecuada, reducción de ruidos y control de la temperatura.
 - Ciberseguridad: Uso de software actualizado, protocolos seguros para manejo de datos, capacitación en seguridad informática.
 
+
+<p align="justify">
 Para prevenir los problemas derivados de una mala ergonomía, se recomienda realizar evaluaciones regulares del puesto de trabajo. 
 Por ejemplo, el teclado debe estar a una altura que permita mantener los codos en ángulo recto, y la pantalla debe situarse a unos 50 cm de distancia, ligeramente por debajo del nivel de los ojos. 
 Adicionalmente, incorporar pausas activas cada 45 minutos puede reducir la fatiga ocular y muscular.
+</p>
