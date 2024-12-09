@@ -1,3 +1,4 @@
 # Autores
 
-Pablo Galve, Ezequiel Chávez
+1- Pablo Galve
+2- Ezequiel Chávez
