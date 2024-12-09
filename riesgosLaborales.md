@@ -11,9 +11,17 @@ los riegos asociados a la seguridad informática, y los detallaremos a continuac
 
 <p align="justify">
 - Los riesgos ergonómicos se tratan desde posturas incorrectas, uso prolongado de ordenadores, mobiliario inadecuado.
+</p>
+<p align="justify">
 - Loos riesgos psicológicoscomo lo son el estrés, carga laboral excesiva, fatiga mental.
+</p>
+<p align="justify">
 - Los riesgos eléctricos por el manejo de cables y equipos defectuosos.
+</p>
+<p align="justify">  
 - También los riesgos ambientales como la iluminación inadecuada, ruido, temperatura extrema.
+</p>
+<p align="justify">
 - Por último, los riesgos asociados a la seguridad informática como lo es el acceso a datos confidenciales, exposición a ciberataques.
 </p>
 
