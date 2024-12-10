@@ -3,7 +3,7 @@
 # Prevención de riesgos desde un punto de vista informático.
 
 
-En este apartado debes proponer medidas de prevención específicas para los riesgos que mencionaste anteriormente.
+Las medidas de prevención específicas para los riesgos que mencionados anteriormente, son los siguientes:
 
 - Ergonomía: Uso de sillas ergonómicas, pantallas a la altura de los ojos, pausas activas, ejercicios de estiramiento.
 - Psicología laboral: Horarios razonables, fomentar el teletrabajo equilibrado, técnicas de gestión del estrés.
